@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arunesh001" alt="arunesh001" /></a> </p>
 
-- 🌐 I’m currently working on [Trading website](https://www.bigboss.org.in/)
+- 🌐 I’m currently working on [Trading website](https://www.bigboss.org.in/) as a freelancer
 
 - 🌱 I’m currently learning **Spring Boot, Spring MVC, Spring Security, Spring Data JPA**
 
