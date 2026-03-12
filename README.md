@@ -9,7 +9,7 @@
 I am a **Passionate Full-Stack Developer** from India with a strong focus on building scalable web applications. Currently, I am deep-diving into the **Spring Ecosystem** to master backend architecture. I love bridging the gap between elegant frontend design and robust backend logic.
 
 - 🌱 **Learning Path:** Spring Boot, Spring Security, Microservices, and Spring Data JPA
-- 📁 **Resume & Experience:** [View My Portfolio/CV](https://drive.google.com) 📄
+- 📁 **Resume & Experience:** [View My Portfolio/CV](https://aruneshwaran-portfolio.netlify.app/) 📄
 
 ---
 
