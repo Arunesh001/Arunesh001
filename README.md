@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm ARUNESHWARAN</h1>
 <h3 align="center">Full-Stack Developer | Java Backend Enthusiast | Freelancer</h3>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app" alt="arunesh001 trophies" />
-</p>
 
 ## 📖 About Me
 I am a **Passionate Full-Stack Developer** from India with a strong focus on building scalable web applications. Currently, I am deep-diving into the **Spring Ecosystem** to master backend architecture. I love bridging the gap between elegant frontend design and robust backend logic.
